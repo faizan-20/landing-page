@@ -98,8 +98,10 @@ button{
 
 .illu img{
     width: 164px;
+    height: 100px;
     border-radius: 10px;
 }
+
 
 .text{
     margin-top: 24px;
